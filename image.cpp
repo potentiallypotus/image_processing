@@ -1,0 +1,3 @@
+class bitmapImage{
+    //header
+};
